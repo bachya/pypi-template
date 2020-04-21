@@ -60,7 +60,7 @@ jobs:
             --verbose \
             --cov-report term-missing \
             --cov-report xml \
-            --cov=aioguardian tests
+            --cov=package_name tests
 
       - uses: codecov/codecov-action@v1
         with:
