@@ -1,0 +1,11 @@
+*.egg-info
+.coverage
+.mypy_cache
+.tox/
+.venv
+__pycache__/
+coverage.xml
+dist/
+docs/_build
+poetry.lock
+tags
