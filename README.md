@@ -13,7 +13,6 @@ DESCRIPTION
 - [Installation](#installation)
 - [Python Versions](#python-versions)
 - [Usage](#usage)
-- [Commands](#commands)
 - [Contributing](#contributing)
 
 # Installation
