@@ -1,2 +1,1 @@
-"""Define the aiowatttime package."""
-from .client import Client  # noqa
+"""Define the package_name package."""
