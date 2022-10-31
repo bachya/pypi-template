@@ -1,7 +1,7 @@
 """Define tests for the client."""
-import pytest
+from __future__ import annotations
 
 
-def test_fake():
+def test_fake() -> None:
     """Define a fake, starter test."""
-    assert 1 == 1
+    assert True
