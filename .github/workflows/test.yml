@@ -80,7 +80,7 @@ jobs:
   coverage:
     name: Code Coverage
 
-    needs: test
+    # needs: test
 
     runs-on: ubuntu-latest
 
