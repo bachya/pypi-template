@@ -80,8 +80,6 @@ jobs:
   coverage:
     name: Code Coverage
 
-    # needs: test
-
     runs-on: ubuntu-latest
 
     strategy:
