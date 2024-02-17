@@ -88,7 +88,7 @@ pyyaml = "^6.0.1"
 requests = "^2.31.0"
 ruff = "^0.2.1"
 vulture = "^2.11"
-yamllint = "^1.34.0"
+yamllint = "^1.35.1"
 
 [tool.poetry.urls]
 "Bug Tracker" = "https://github.com/bachya/package_name/issues"
